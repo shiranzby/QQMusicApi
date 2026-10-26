@@ -1,0 +1,3 @@
+// Vercel serverless entry
+const app = require('../app');
+module.exports = app;
